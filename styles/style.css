@@ -1,0 +1,27 @@
+html{
+    font-size: 10px;
+    font-family: 'Noto Sans SC',sans-serif;
+    background-color: #282c34;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 0 20px 20px 20px;
+    border: 5px solid aquamarine ;
+}
+h1{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+}
+p,li{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
